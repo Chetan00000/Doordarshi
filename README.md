@@ -65,10 +65,10 @@ The workflow is simple and efficient:
 * Headphones/Speaker
 * Required dependencies (Python, OpenCV, etc.)
 
-
+---
 ## 📄 License
 This project is licensed under the MIT License.
-
+---
 ### Installation
 
 1.  Clone the repository:
