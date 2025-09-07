@@ -97,6 +97,5 @@ Run the main script from your terminal:
 python main.py
 
 
----
 
 
