@@ -11,9 +11,7 @@
 
 <br>
 
-<p align="center">
-  <img src="YOUR_PROJECT_IMAGE_OR_GIF_URL_HERE" alt="Project Demo" width="600"/>
-</p>
+
 
 ---
 
@@ -37,10 +35,10 @@ The entire system runs on a low-power, portable setup, making it a true edge-com
 
 | Component | Technology | Role |
 |---|---|---|
-| **Compute** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) | The brain of the operation; handles all processing. |
-| **Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | Image capture, pre-processing, and optimization. |
-| **Perception** | ![Ollama](https://img.shields.io/badge/MoonDream_(Ollama)-000000?style=for-the-badge&logo=ollama&logoColor=white) | On-device multimodal model for scene descriptions. |
-| **Text Reading**| ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-1FB2A7?style=for-the-badge) | High-accuracy Optical Character Recognition engine. |
+| **Compute** | The brain of the operation; handles all processing. |
+| **Vision** |  Image capture, pre-processing, and optimization. |
+| **Perception** |  On-device multimodal model for scene descriptions. |
+| **Text Reading**|  | High-accuracy Optical Character Recognition engine. |
 
 ---
 
