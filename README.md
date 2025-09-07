@@ -89,3 +89,9 @@ The workflow is simple and efficient:
 Run the main script from your terminal:
 ```bash
 python main.py
+
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
