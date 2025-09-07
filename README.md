@@ -89,8 +89,8 @@ This project is licensed under the MIT License.
     # Follow instructions on the Ollama website to install
     ollama pull moondream
     ```
-
-### Usage
+---
+## Usage
 
 Run the main script from your terminal:
 ```bash
