@@ -4,7 +4,7 @@ import time
 import subprocess
 import os
 import cv2
-import pytesseract
+import pytesseract #cureent
 from datetime import datetime
 from threading import Timer
 
