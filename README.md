@@ -12,7 +12,6 @@
 <br>
 
 
-
 ---
 
 ## 🚀 Core Features
@@ -35,10 +34,10 @@ The entire system runs on a low-power, portable setup, making it a true edge-com
 
 | Component | Technology | Role |
 |---|---|---|
-| **Compute** | The brain of the operation; handles all processing. |
-| **Vision** |  Image capture, pre-processing, and optimization. |
-| **Perception** |  On-device multimodal model for scene descriptions. |
-| **Text Reading**|  | High-accuracy Optical Character Recognition engine. |
+| **Compute** | ![Raspberry Pi] | The brain of the operation; handles all processing. |
+| **Vision** | ![OpenCV] | Image capture, pre-processing, and optimization. |
+| **Perception** | ![Ollama] | On-device multimodal model for scene descriptions. |
+| **Text Reading**| ![Tesseract] | High-accuracy Optical Character Recognition engine. |
 
 ---
 
