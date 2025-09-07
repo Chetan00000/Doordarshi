@@ -5,7 +5,7 @@ import subprocess
 import os
 import cv2
 import pytesseract #cureent
-from datetime import datetime
+from datetime import datetime #xyz
 from threading import Timer
 
 # GPIO Setup
